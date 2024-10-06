@@ -1,0 +1,29 @@
+{
+  "targetAttributes": [
+    "NoteIcon:npc",
+    ""
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "NoteIcon:npc",
+      "value": " 🧙‍♂️",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "bc60-0b4c",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

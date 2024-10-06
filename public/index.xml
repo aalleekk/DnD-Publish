@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Untitled</title>
+    <link>https://quartz.jzhao.xyz/Untitled</link>
+    <guid>https://quartz.jzhao.xyz/Untitled</guid>
+    <description></description>
+    <pubDate>Sun, 06 Oct 2024 12:05:12 GMT</pubDate>
+  </item><item>
+    <title> Test</title>
+    <link>https://quartz.jzhao.xyz/Test</link>
+    <guid>https://quartz.jzhao.xyz/Test</guid>
+    <description></description>
+    <pubDate>Sun, 06 Oct 2024 12:03:36 GMT</pubDate>
+  </item><item>
+    <title>Mroczne Zaćmienie - Konspekt</title>
+    <link>https://quartz.jzhao.xyz/Konspekt</link>
+    <guid>https://quartz.jzhao.xyz/Konspekt</guid>
+    <description>Tytuł: “Mroczne Zaćmienie” Wstęp: Od trzystu lat świat Arcathoru pogrąża się w coraz głębszej ciemności. Kataklizm, który rozpoczął się tak dawno, że większość ludzi zna go tylko z opowieści przodków, postępuje powoli, lecz nieubłaganie.</description>
+    <pubDate>Sun, 06 Oct 2024 11:58:46 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Sun, 06 Oct 2024 11:58:46 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
