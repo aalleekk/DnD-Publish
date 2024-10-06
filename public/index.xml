@@ -9,62 +9,20 @@
     <title> Test</title>
     <link>https://quartz.jzhao.xyz/Test</link>
     <guid>https://quartz.jzhao.xyz/Test</guid>
-    <description></description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
+    <description>Test tekst.</description>
+    <pubDate>Sun, 06 Oct 2024 12:12:33 GMT</pubDate>
   </item><item>
-    <title>Mroczne Zaćmienie - Konspekt</title>
-    <link>https://quartz.jzhao.xyz/Konspekt</link>
-    <guid>https://quartz.jzhao.xyz/Konspekt</guid>
-    <description>Tytuł: “Mroczne Zaćmienie” Wstęp: Od trzystu lat świat Arcathoru pogrąża się w coraz głębszej ciemności. Kataklizm, który rozpoczął się tak dawno, że większość ludzi zna go tylko z opowieści przodków, postępuje powoli, lecz nieubłaganie.</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
+    <title>Test connection</title>
+    <link>https://quartz.jzhao.xyz/Test-connection</link>
+    <guid>https://quartz.jzhao.xyz/Test-connection</guid>
+    <description>Test connection test.</description>
+    <pubDate>Sun, 06 Oct 2024 12:12:33 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>xentis-dnd-beyond-character-sheets-json-puller</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/tools/xentis-dnd-beyond-character-sheets-json-puller</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/tools/xentis-dnd-beyond-character-sheets-json-puller</guid>
-    <description>Xentis DND Beyond Character Sheets JSON Puller Obisidian Plugins Required: Dataview Website: DND Beyond Summary: This script will pull the JSON of the specified Character Sheet ...</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>madness</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/variant-rules/madness</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/variant-rules/madness</guid>
-    <description>Madness Source: SRD / Basic Rules In a typical campaign, characters aren’t driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of ...</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>skills</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/skills</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/skills</guid>
-    <description>Skills Acrobatics Source: SRD / Basic Rules Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across ...</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>senses</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/senses</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/senses</guid>
-    <description>Senses Blindsight Source: SRD / Basic Rules A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius ...</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>diseases</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/diseases</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/diseases</guid>
-    <description>Diseases Cackle Fever Source: SRD / Basic Rules This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: “the shrieks.” Symptoms manifest 1d4 hours after infection and include fever and disorientation.</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>Damage Types</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/Damage-Types</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/Damage-Types</guid>
-    <description>Damage Types Source: SRD / Basic Rules Acid The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage ...</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
-  </item><item>
-    <title>Conditions</title>
-    <link>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/Conditions</link>
-    <guid>https://quartz.jzhao.xyz/5.D-and-D-5e/rules/Conditions</guid>
-    <description>Conditions Blinded Source: SRD / Basic Rules A blinded creature can’t see and automatically fails any ability check that requires sight. Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.</description>
-    <pubDate>Sun, 06 Oct 2024 12:07:42 GMT</pubDate>
+    <pubDate>Sun, 06 Oct 2024 12:12:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
